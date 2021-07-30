@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Yorkie
+comment1.params=
+comment1.target=Yorkie()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ moves()
+comment4.params=
+comment4.target=boolean\ hitPlant()
+comment5.params=
+comment5.target=boolean\ hitRock()
+numComments=6
